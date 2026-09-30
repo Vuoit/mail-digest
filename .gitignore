@@ -1,0 +1,7 @@
+# Generated digest contains your real email content
+digest.html
+sample_digest.html
+
+__pycache__/
+*.pyc
+.venv/
